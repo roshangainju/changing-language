@@ -1,0 +1,7 @@
+{
+    "greeting":"hello, welcome",       
+    "description":{
+       " line1":"you are learning <1> {{course}} </1>",
+        "line2":"you are practicing language translation in react js"
+    }
+}

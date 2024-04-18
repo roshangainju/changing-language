@@ -1,0 +1,8 @@
+{
+    "greeting":"Hola bienvenido",
+   " description":{
+        "line1":"estas aprendiendo {{course}}",
+       " line2":"estás practicando el lenguaje en reaccionar js"
+    }
+  
+}
